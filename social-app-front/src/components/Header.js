@@ -17,7 +17,7 @@ const Header = () => {
   return (
     <HeaderWrapper>
       <HeaderLeft>
-        <img src="logo.png" alt="my social app" />
+        <img src={"logo.png"} alt="my social app" />
       </HeaderLeft>
       <HeaderInput>
         <SearchIcon />
